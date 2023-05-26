@@ -1,7 +1,6 @@
 # chrome_extensions_leaderboard
 
 
-I apologize for the limited number of entries. Here's an expanded list of popular Chrome extensions before 2021, including 50 entries:
 
 | # | Chrome Extension              | Number of Users (Estimated) | Free/Paid |
 |---|-------------------------------|-----------------------------|-----------|
