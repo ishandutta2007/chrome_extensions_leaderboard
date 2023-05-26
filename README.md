@@ -250,51 +250,6 @@ Sure, here is the list of the top 100 Chrome extensions by number of users, in t
 | 53 | Google Ads | 5M+ | Paid |
 | 54 | Google Optimize | 5M+ | Paid |
 | 55 | Google Tag Manager | 5M+|Free |
-| 56 | AdBlock | Blocks ads on websites. |
-| 57 | AdBlock Plus | Blocks ads on websites. |
-| 58 | Ghostery | Blocks tracking scripts on websites. |
-| 59 | HTTPS Everywhere | Encrypts your connection to websites. |
-| 60 | Grammarly | Checks your grammar and spelling. |
-| 61 | LastPass | A password manager. |
-| 62 | OneTab | Collapses all tabs into a single list. |
-| 63 | Pocket | Saves articles and videos for later reading. |
-| 64 | Pushbullet | Sends notifications and files from your phone to your computer. |
-| 65 | RES (Reddit Enhancement Suite) | Improves the Reddit experience. |
-| 66 | Save to Google Drive | Saves web content to Google Drive. |
-| 67 | StayFocusd | Blocks distracting websites. |
-| 68 | Toggl Track | Tracks your time. |
-| 69 | uBlock Origin | Blocks ads on websites. |
-| 70 | Vimium | A keyboard-driven browser. |
-| 71 | Wappalyzer | Identifies the technologies used on websites. |
-| 72 | XKCD substitutions | Replaces words with XKCD comics. |
-| 73 | AdGuard AdBlocker | Blocks ads on websites. |
-| 74 | Bitwarden | A password manager. |
-| 75 | Cookie Autodelete | Deletes cookies when you close your browser. |
-| 76 | Dark Reader | Converts websites to dark mode. |
-| 77 | Honey | Finds and applies coupons to online purchases. |
-| 78 | HTTPS Everywhere | Encrypts your connection to websites. |
-| 79 | I don't care about cookies | Blocks websites from asking you about cookies. |
-| 80 | LanguageTool | Checks your grammar and spelling in multiple languages. |
-| 81 | Momentum | Replaces your new tab page with a motivational quote. |
-| 82 | OneTab | Collapses all tabs into a single list. |
-| 83 | Privacy Badger | Blocks trackers on websites. |
-| 84 | Pushbullet | Sends notifications and files from your phone to your computer. |
-| 85 | Reddit Enhancement Suite (RES) | Improves the Reddit experience. |
-| 86 | Save to Google Drive | Saves web content to Google Drive. |
-| 87 | Session Buddy | Saves and restores your browsing sessions. |
-| 88 | StayFocusd | Blocks distracting websites. |
-| 89 | Toggl Track | Tracks your time. |
-| 90 | uBlock Origin | Blocks ads on websites. |
-| 91 | Vimium | A keyboard-driven browser. |
-| 92 | Wappalyzer | Identifies the technologies used on websites. |
-| 93 | XKCD substitutions | Replaces words with XKCD comics. |
-| 94 | AdGuard AdBlocker | Blocks ads on websites. |
-| 95 | Bitwarden | A password manager. |
-| 96 | Cookie Autodelete | Deletes cookies when you close your browser. |
-| 97 | Dark Reader | Converts websites to dark mode. |
-| 98 | Honey | Finds and applies coupons to online purchases. |
-| 99 | HTTPS Everywhere | Encrypts your connection to websites. |
-| 100 | I don't care about cookies | Blocks websites from asking you about cookies. |
 | 56    | AdBlock    | 60,000,000    | Free
 | 57    | AdBlock Plus    | 50,000,000    | Free
 | 58    | Ghostery    | 40,000,000    | Free
