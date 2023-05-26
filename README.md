@@ -296,4 +296,51 @@ Sure, here is the list of the top 100 Chrome extensions by number of users, in t
 | 99 | HTTPS Everywhere | Encrypts your connection to websites. |
 | 100 | I don't care about cookies | Blocks websites from asking you about cookies. |
 
+56	AdBlock	60,000,000	Free
+57	AdBlock Plus	50,000,000	Free
+58	Ghostery	40,000,000	Free
+59	HTTPS Everywhere	30,000,000	Free
+60	Grammarly	25,000,000	Free
+61	LastPass	20,000,000	Free
+62	OneTab	15,000,000	Free
+63	Pocket	10,000,000	Free
+64	Pushbullet	5,000,000	Free
+65	RES (Reddit Enhancement Suite)	4,000,000	Free
+66	Save to Google Drive	3,000,000	Free
+67	StayFocusd	2,000,000	Free
+68	Toggl Track	1,000,000	Free
+69	uBlock Origin	500,000	Free
+70	Vimium	250,000	Free
+71	Wappalyzer	100,000	Free
+72	XKCD substitutions	50,000	Free
+73	AdGuard AdBlocker	25,000	Free
+74	Bitwarden	10,000	Free
+75	Cookie Autodelete	5,000	Free
+76	Dark Reader	2,000	Free
+77	Honey	1,000	Free
+78	HTTPS Everywhere	500	Free
+79	I don't care about cookies	250	Free
+80	LanguageTool	100	Free
+81	Momentum	50	Free
+82	OneTab	25	Free
+83	Privacy Badger	10	Free
+84	Pushbullet	5	Free
+85	Reddit Enhancement Suite (RES)	4	Free
+86	Save to Google Drive	3	Free
+87	Session Buddy	2	Free
+88	StayFocusd	1	Free
+89	Toggl Track	500,000	Paid
+90	uBlock Origin	500,000	Free
+91	Vimium	250,000	Free
+92	Wappalyzer	100,000	Free
+93	XKCD substitutions	50,000	Free
+94	AdGuard AdBlocker	25,000	Free
+95	Bitwarden	10,000	Free
+96	Cookie Autodelete	5,000	Free
+97	Dark Reader	2,000	Free
+98	Honey	1,000	Free
+99	HTTPS Everywhere	500	Free
+100	I don't care about cookies	250	Free
+
+
 This is just a small sample of the many great Chrome extensions available. There are extensions for almost every task imaginable, so take some time to explore and find the ones that work best for you.
