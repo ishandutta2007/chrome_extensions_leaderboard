@@ -16,11 +16,8 @@
 |10     |Evernote Web Clipper     |5+ million     |Free      
 |11     |Google Hangouts     |5+ million     | Free      
 |12     |OneTab     |5+ million     |Free      
-|13     |OneTab     |5+ million     | Free
 |14     |Pinterest Save Button     |5+ million     |Free      
-|15     |Pinterest Save Button     |5+ million     | Free
 |16     |Pocket     |5+ million     |Freemium  
-|17     |Pocket     |5+ million     | Freemium
 |18     |Trello     |5+ million     | Freemium  
 |19     |Awesome Screenshot     |3+ million     | Free
 |20     |HTTPS Everywhere     |3+ million     | Free
