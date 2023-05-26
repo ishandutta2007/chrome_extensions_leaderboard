@@ -187,3 +187,113 @@
 |180 | Zoho Notebook                                    | 1+ million                  | Freemium  |
 |181 | Zoho Sign for Gmail                              | 1+ million                  | Freemium  |
 |182 | Zoom Scheduler for Microsoft Edge                | 1+ million                  | Free      |
+
+
+
+
+Sure, here is the list of the top 100 Chrome extensions by number of users, in tabular form:
+
+| Serial Number | Extension Name | Number of Users | Free or Paid |
+|---|---|---|---|
+| 1 | AdBlock Plus - free ad blocker | 500M+ | Free |
+| 2 | uBlock Origin | 100M+ | Free |
+| 3 | Google Translate | 100M+ | Free |
+| 4 | AdBlock — best ad blocker | 100M+ | Free |
+| 5 | Grammarly for Chrome | 50M+ | Paid |
+| 6 | Honey | 50M+ | Free |
+| 7 | Google Hangouts | 50M+ | Free |
+| 8 | Netflix Party | 50M+ | Free |
+| 9 | Tampermonkey | 50M+ | Free |
+| 10 | LastPass: Free Password Manager | 50M+ | Free |
+| 11 | Avast SafePrice | Comparison, deals, coupons | 10M+ | Free |
+| 12 | Avast Online Security | 10M+ | Free |
+| 13 | Skype | 10M+ | Free |
+| 14 | Cisco Webex Extension | 10M+ | Free |
+| 15 | Screencastify - Screen Video Recorder | 10M+ | Free |
+| 16 | Hola Free VPN, unblock any site! | 10M+ | Free |
+| 17 | Honey for Amazon | 10M+ | Free |
+| 18 | Grammarly for Microsoft Office | 10M+ | Paid |
+| 19 | Google Docs Offline | 10M+ | Free |
+| 20 | Google Mail Checker | 10M+ | Free |
+| 21 | Todoist for Chrome | 10M+ | Free |
+| 22 | Zoom Scheduler | 10M+ | Free |
+| 23 | Toggl Button | 10M+ | Free |
+| 24 | Kami Extension | 10M+ | Free |
+| 25 | Noisli | 10M+ | Free |
+| 26 | Marinara | 10M+ | Free |
+| 27 | Bitly | 5M+ | Free |
+| 28 | BuzzSumo | 5M+ | Freemium |
+| 29 | Pinterest Save button | 5M+ | Free |
+| 30 | Save to Facebook | 5M+ | Free |
+| 31 | RiteTag | 5M+ | Free |
+| 32 | Buffer | 5M+ | Freemium |
+| 33 | App for Instagram | 5M+ | Free |
+| 34 | Reddit Enhancement Suite | 5M+ | Free |
+| 35 | SocialAnalyzer | 5M+ | Free |
+| 36 | HubSpot Social | 5M+ | Free |
+| 37 | Bitwarden | 5M+ | Free |
+| 38 | HTTPS Everywhere | 5M+ | Free |
+| 39 | Dark Reader | 5M+ | Free |
+| 40 | OneTab | 5M+ | Free |
+| 41 | Google Keep | 5M+ | Free |
+| 42 | Google Sheets Offline | 5M+ | Free |
+| 43 | Google Slides Offline | 5M+ | Free |
+| 44 | Google Forms Offline | 5M+ | Free |
+| 45 | Google Drive File Stream | 5M+ | Free |
+| 46 | Google Chrome Remote Desktop | 5M+ | Free |
+| 47 | Google Analytics Dashboard for Chrome | 5M+ | Free |
+| 48 | Google Search Console Insights | 5M+ | Free |
+| 49 | Google PageSpeed Insights | 5M+ | Free |
+| 50 | Google Lighthouse | 5M+ | Free |
+| 51 | Google Webmaster Tools | 5M+ | Free |
+| 52 | Google Analytics | 5M+ | Paid |
+| 53 | Google Ads | 5M+ | Paid |
+| 54 | Google Optimize | 5M+ | Paid |
+| 55 | Google Tag Manager | 5M+|Free |
+| 56 | AdBlock | Blocks ads on websites. |
+| 57 | AdBlock Plus | Blocks ads on websites. |
+| 58 | Ghostery | Blocks tracking scripts on websites. |
+| 59 | HTTPS Everywhere | Encrypts your connection to websites. |
+| 60 | Grammarly | Checks your grammar and spelling. |
+| 61 | LastPass | A password manager. |
+| 62 | OneTab | Collapses all tabs into a single list. |
+| 63 | Pocket | Saves articles and videos for later reading. |
+| 64 | Pushbullet | Sends notifications and files from your phone to your computer. |
+| 65 | RES (Reddit Enhancement Suite) | Improves the Reddit experience. |
+| 66 | Save to Google Drive | Saves web content to Google Drive. |
+| 67 | StayFocusd | Blocks distracting websites. |
+| 68 | Toggl Track | Tracks your time. |
+| 69 | uBlock Origin | Blocks ads on websites. |
+| 70 | Vimium | A keyboard-driven browser. |
+| 71 | Wappalyzer | Identifies the technologies used on websites. |
+| 72 | XKCD substitutions | Replaces words with XKCD comics. |
+| 73 | AdGuard AdBlocker | Blocks ads on websites. |
+| 74 | Bitwarden | A password manager. |
+| 75 | Cookie Autodelete | Deletes cookies when you close your browser. |
+| 76 | Dark Reader | Converts websites to dark mode. |
+| 77 | Honey | Finds and applies coupons to online purchases. |
+| 78 | HTTPS Everywhere | Encrypts your connection to websites. |
+| 79 | I don't care about cookies | Blocks websites from asking you about cookies. |
+| 80 | LanguageTool | Checks your grammar and spelling in multiple languages. |
+| 81 | Momentum | Replaces your new tab page with a motivational quote. |
+| 82 | OneTab | Collapses all tabs into a single list. |
+| 83 | Privacy Badger | Blocks trackers on websites. |
+| 84 | Pushbullet | Sends notifications and files from your phone to your computer. |
+| 85 | Reddit Enhancement Suite (RES) | Improves the Reddit experience. |
+| 86 | Save to Google Drive | Saves web content to Google Drive. |
+| 87 | Session Buddy | Saves and restores your browsing sessions. |
+| 88 | StayFocusd | Blocks distracting websites. |
+| 89 | Toggl Track | Tracks your time. |
+| 90 | uBlock Origin | Blocks ads on websites. |
+| 91 | Vimium | A keyboard-driven browser. |
+| 92 | Wappalyzer | Identifies the technologies used on websites. |
+| 93 | XKCD substitutions | Replaces words with XKCD comics. |
+| 94 | AdGuard AdBlocker | Blocks ads on websites. |
+| 95 | Bitwarden | A password manager. |
+| 96 | Cookie Autodelete | Deletes cookies when you close your browser. |
+| 97 | Dark Reader | Converts websites to dark mode. |
+| 98 | Honey | Finds and applies coupons to online purchases. |
+| 99 | HTTPS Everywhere | Encrypts your connection to websites. |
+| 100 | I don't care about cookies | Blocks websites from asking you about cookies. |
+
+This is just a small sample of the many great Chrome extensions available. There are extensions for almost every task imaginable, so take some time to explore and find the ones that work best for you.
