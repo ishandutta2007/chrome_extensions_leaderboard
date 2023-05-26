@@ -145,3 +145,45 @@
 |140 | Zoho Vault - Password Manager                  | 1+ million                  | Freemium  |
 |141 | Just Not Sorry - Gmail Plugin                  | 1+ million                  | Free      |
 |142 | Mail Merge with Attachments                    | 1+ million                  | Freemium  |
+|143 | Mercury Reader &amp; Readability                  | 1+ million                  | Free      |
+|144 | Magic Actions for YouTube™ and more!               | 1+ million                  | Free      |
+|145 | OneTab for Edge                                   | 1+ million                  | Free      |
+|146 | Power Thesaurus                                  | 1+ million                  | Free      |
+|147 | Print Friendly &amp; PDF for Chrome               | 1+ million                  | Free      |
+|148 | Quick QR Code Generator                          | 1+ million                  | Free      |
+|149 | Red Eyes (Anti Redness)                           | 1+ million                  | Free      |
+|150 | Scroll to Top Button                              | 1+ million                  | Free      |
+|151 | Search by Image (by Google)                       | 1+ million                  | Free      |
+|152 | Shodan.io                                       | 1+ million                  | Free      |
+|153 | Sitecore® Experience Edge                          | 1+ million                  | Free      |
+|154 | Slash Keyboard                                  | 1+ million                  | Free      |
+|155 | Spreed - speed read the web                      | 1+ million                  | Free      |
+|156 | Stylish - Custom themes for any website          | 1+ million                  | Free      |
+|157 | Text Blaze                                       | 1+ million                  | Freemium  |
+|158 | The Camelizer - Price Tracker                    | 1+ million                  | Free      |
+|159 | The New York Times                               | 1+ million                  | Free      |
+|160 | Toggl Track: Productivity &amp; Time Tracker      | 1+ million                  | Freemium  |
+|161 | Tracker Network                                  | 1+ million                  | Free      |
+|162 | TubeBuddy - YouTube Channel Management           | 1+ million                  | Freemium  |
+|163 | Turn Off the Lights for Microsoft Edge            | 1+ million                  | Free      |
+|164 | Twitch Now                                       | 1+ million                  | Free      |
+|165 | uBlock Origin Extra                             | 1+ million                  | Free      |
+|166 | UltraWide Video                               | 1+ million                  | Free      |
+|167 | Unshorten.link                                    | 1+ million                  | Free      |
+|168 | Video Downloader Plus                          | 1+ million                  | Free      |
+|169 | Videostream for Google Chromecast™                | 1+ million                  | Freemium  |
+|170 | Web Developer Checklist                           | 1+ million                  | Free      |
+|171 | Web Server for Chrome                           | 1+ million                  | Free      |
+|172 | Web Scraper                                    | 1+ million                  | Freemium  |
+|173 | WhatFont                                          | 1+ million                  | Free      |
+|174 | Who unfollowed me? for Instagram               | 1+ million                  | Free      |
+|175 | Wikiwand: Wikipedia Modernized                  | 1+ million                  | Free      |
+|176 | WiseStamp for Gmail                               | 1+ million                  | Freemium  |
+|177 | Wunderlist New Tab                               | 1+ million                  | Free      |
+|178 | Xodo PDF Viewer &amp; Editor                     | 1+ million                  | Free      |
+|179 | YouBlocker: YouTube™ Ad-Blocker                   | 1+ million                  | Free      |
+|180 | Zoho Notebook                                    | 1+ million                  | Freemium  |
+|181 | Zoho Sign for Gmail                              | 1+ million                  | Freemium  |
+|182 | Zoom Scheduler for Microsoft Edge                | 1+ million                  | Free      |
+|183 | Amazon Assistant                                 | 10+ million                 | Free      |
+|184 | Avast Online Security                          |  10+ million                 | Freemium      |
