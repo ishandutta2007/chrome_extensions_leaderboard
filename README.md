@@ -101,3 +101,47 @@
 |98     |Wikiwand     |1+ million     |Free      
 |99     |Zoom Redirector     |1+ million     | Free      
 |100     |Zoom Scheduler     |1+ million     |Free      
+|99 | Bitwarden                                     | 1+ million                  | Freemium  |
+|100 | Clockify Time Tracker                          | 1+ million                  | Freemium  |
+|101 | Enhancer for YouTube                           | 1+ million                  | Free      |
+|102 | HTTPS Everywhere                              | 3+ million                  | Free      |
+|103 | LeechBlock                                    | 1+ million                  | Free      |
+|104 | Nimbus Capture                                | 1+ million                  | Freemium  |
+|105 | OctoLinker                                    | 1+ million                  | Free      |
+|106 | Save Image As                                | 1+ million                  | Free      |
+|107 | SessionBox                                    | 1+ million                  | Freemium  |
+|108 | Todoist for Microsoft Edge                     | 1+ million                  | Freemium  |
+|109 | Toggl Button                                  | 1+ million                  | Freemium  |
+|110 | Video Downloader Plus                         | 1+ million                  | Free      |
+|111 | Volume Master                                 | 1+ million                  | Free      |
+|112 | Web Paint                                     | 1+ million                  | Free      |
+|113 | Web Timer                                     | 1+ million                  | Free      |
+|114 | World Clocks                                  | 1+ million                  | Free      |
+|115 | XPath Helper                                  | 1+ million                  | Free      |
+|116 | YouTube Lyrics by Rob W                       | 1+ million                  | Free      |
+|117 | IP Address and Domain Information             | 1+ million                  | Free      |
+|118 | Facebook Pixel Helper                         | 1+ million                  | Free      |
+|119 | Cryptocurrency Price Tracker                  | 1+ million                  | Free      |
+|120 | Google Meet Grid View for Chrome              | 1+ million                  | Free      |
+|121 | Gmelius for Gmail                             | 1+ million                  | Freemium  |
+|122 | Docsify - Email Tracking for Gmail            | 1+ million                  | Freemium  |
+|123 | Dark Mode                                    | 1+ million                  | Free      |
+|124 | CSSViewer                                     | 1+ million                  | Free      |
+|125 | Copy Link, Title and URL for Google Docs       | 1+ million                  | Free      |
+|126 | Avira Browser Safety                          | 1+ million                  | Free      |
+|127 | Bitmoji for Chrome                            | 1+ million                  | Free      |
+|128 | ColorZilla Eyedropper                         | 1+ million                  | Free      |
+|129 | Enhancer for YouTube™                          | 1+ million                  | Free      |
+|130 | Grammar and Spell Checker - LanguageTool       | 1+ million                  | Freemium  |
+|131 | Honey for Safari                               | 1+ million                  | Free      |
+|132 | Magic Actions for YouTube™                     | 1+ million                  | Free      |
+|133 | Mailtrack for Gmail                            | 1+ million                  | Freemium  |
+|134 | Popup Blocker (strict)                         | 1+ million                  | Free      |
+|135 | Product Hunt Ship                              | 1+ million                  | Freemium  |
+|136 | Session Buddy for Microsoft Edge               | 1+ million                  | Free      |
+|137 | Toby for Chrome                                | 1+ million                  | Freemium  |
+|138 | Turn Off the Lights for Safari                 | 1+ million                  | Free      |
+|139 | Wappalyzer                                    | 1+ million                  | Free      |
+|140 | Zoho Vault - Password Manager                  | 1+ million                  | Freemium  |
+|141 | Just Not Sorry - Gmail Plugin                  | 1+ million                  | Free      |
+|142 | Mail Merge with Attachments                    | 1+ million                  | Freemium  |
